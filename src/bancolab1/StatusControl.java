@@ -1,0 +1,19 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package bancolab1;
+
+/**
+ *
+ * @author maryc
+ */
+public interface StatusControl {
+    
+    public abstract void Activate();
+        
+    
+     public abstract void Desactivate();
+        
+    
+}
